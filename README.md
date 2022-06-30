@@ -31,3 +31,7 @@ As funcionalidades básicas são:
 → Adicionar docente na turma;
 
 → Pegar a idade de algum estudante a partir do id
+
+Link do Heroku:
+
+https://labenulab14.herokuapp.com/
